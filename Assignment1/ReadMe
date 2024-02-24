@@ -1,0 +1,14 @@
+Instructions on how to run the code:
+
+Steps:
+
+1. Import the plugin project in the eclipse.
+2. Ensure that the following dependencies are added in the MANIFEST.MF 
+	i)org.eclipse.jdt
+	ii)org.eclipse.jdt.core
+	iii)org.eclipse.core.runtime
+	iv)org.eclipse.core.resources
+	v)org.apache.commons.io
+3. FrameDemo is the sample test file located in the default package.
+4. In the TestRunner.java file located in default package update the location of FrameDemo file according to the file location in your system.
+5. Run the TestRunner.java file. It executes Question1, Question2, Question3 and Question4.
